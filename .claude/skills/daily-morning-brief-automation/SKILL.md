@@ -38,7 +38,7 @@ Do not add steps, sections or sources that are not listed here.
    |---|---|
    | `Finance` | banks, cards, investments, taxes, transfers and receipts |
    | `Rent/Housing` | landlord, rent, lease, home utilities, repairs |
-   | `Son` | school, teachers, activities, doctors, anything about her son |
+   | `Son` | school, teachers, activities, doctors, anything about the user's son |
    | `Bills` | invoices, due dates, subscriptions (e.g. Apple subscription confirmations) |
    | `Needs Reply` | a real person asking the user something |
    | `Newsletters` | newsletters, job alerts (SEEK, LinkedIn, Michael Page, EY), CFA/market updates, account notifications |
